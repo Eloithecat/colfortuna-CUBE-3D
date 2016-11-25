@@ -1,0 +1,26 @@
+si vous souhaiter récuperer ce morceau de code LISEZ CECI
+utiliser MON code en le lisant et faite un projet a part
+en recuperant des morceau...
+
+COPIER-COLLER -->
+1)liser les morceau de code que vous souhaitez concerver
+2)reperer les ligne ou faite pas a pas ou par étape...
+3)important ---> repérer les obets concerner(Tab événements)
+et copier coller dans "nouvelle scene"
+4)enfin copier coller le morceau de code (petit) dans nouvel éditeur
+
+important --> vérifier le nom des ancien objet(voir renommer avant)
+sinon erreur/bug au moment de l'assignation automatique du code dans
+les cases sur chaque objet.
+
+NOTE:ce projet est un test, une expérimentation et ne s'adresse pas a un public
+particulier,sauf si vous ne vous ne vous interesser pas au "code MMF2 windows"
+C est juste une expérimentation et peut servir a l'apprentissage de base...
+
+Une possible compilation,finalisation a cette étape et future
+game engine 3D possible
+-----------------------------------------------------------------------
+
+code 2D game engine
+3D cube possible MAP EDITOR
+via sequencage module,pixel sequencage 
